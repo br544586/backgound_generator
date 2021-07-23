@@ -1,2 +1,2 @@
-# backgound_generator
+# Background generator
 Generate gradient backgrounds

@@ -34,6 +34,10 @@ a {
 #random {
     margin: 2%;
     padding: 10px;
+    border-color: #fff;
+    border-radius: 5px;
+    background: linear-gradient(to right, rgb(218, 193, 225), rgb(158, 95, 171));
+    color: #fff;
 }
 
 footer {
